@@ -96,7 +96,7 @@
 ## Heroku Deployment <img src="./etc/Kenpurple.gif" width="40px">
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamShizu/KingdomMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jaabirosman/KingdomMusic)
 
 ## VPS Deployment 📡
 
